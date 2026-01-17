@@ -5,8 +5,8 @@ A secure, privacy-first password manager built with Next.js, featuring client-si
 <p align="center">
    <img
       src="https://github.com/user-attachments/assets/7c9d1dac-b047-41e2-a96c-0969b880a0a6",
-      height=550px,
-      width=500px>
+      height=400px,
+      width=400px>
 </p>
 
 
